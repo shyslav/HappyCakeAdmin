@@ -14,6 +14,7 @@ import java.util.ArrayList;
  * Created by Shyshkin Vladyslav on 18.08.2016.
  */
 public class GlobalController {
+    protected static final String folder = "/admin/";
     /**
      * Get user data
      * @param req Servlet request
