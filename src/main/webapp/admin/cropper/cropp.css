@@ -1,0 +1,30 @@
+#container {
+    width: 500px;
+}
+
+#box {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    min-width: 100px;
+    min-height: 100px;
+    max-width: 300px;
+    max-height: 300px;
+    height: 100px;
+    background: #FFFFFF;
+    opacity: 0.5;
+}
+
+#image {
+    max-width: 100%;
+}
+
+#circleImg {
+    height: 50px;
+    width: 50px;
+}
+
+#rectangleImg {
+    height: 50px;
+    width: 50px;
+}
